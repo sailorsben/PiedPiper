@@ -1,10 +1,10 @@
-﻿## Interface: 80000
+﻿## Interface: 90005
 ## Title: Pied Piper
 ## SavedVariables: PP
 ## SAvedVariablesPerCharacter: PPSETTINGS
 ## Notes: Sends gold to the Pied Piper!
-## Author: Gwythian-Kel'Thuzad (built off MommysMoney by NotSoSuper-Hellscream)
-## Version: 1
+## Author: Gwythian-Kel'Thuzad (optimized version of MommysMoney by NotSoSuper-Hellscream)
+## Version: 1.1
 
 PiedPiper_Instructions.lua
 PiedPiper_TestMain.lua
